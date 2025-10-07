@@ -1,0 +1,1 @@
+import{a as l,s as n}from"./app-c0159241.js";import{i as t}from"./chunk-@vue-93510168.js";const m=()=>{const s=t([]),e=t([]),o=t([]);return{tables:s,errors:o,loadTables:async()=>{let r="/tables";await l.get(r).then(a=>{s.value=a.data.data,e.value=a.data.meta}).catch(a=>{throw o.value=a,a.response.status===422&&n(a.response.data.errors),a})}}};export{m as g};
