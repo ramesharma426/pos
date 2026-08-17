@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php -v)",
+      "Bash(composer --version)",
+      "Bash(docker --version)",
+      "Bash(docker compose *)",
+      "Bash(npx playwright *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git -c user.email=agent@local -c user.name=agent commit -q -m \"Baseline: Laravel 10 POS app before Docker + framework upgrade\")",
+      "Bash(sed -i 's|^DB_HOST=.*|DB_HOST=db|' .env)",
+      "Bash(sed -i 's|^DB_PASSWORD=.*|DB_PASSWORD=root|' .env)",
+      "Bash(sed -i 's|^APP_URL=.*|APP_URL=http://localhost:8000|' .env)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:8000/)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:8000/api/login)",
+      "Bash(curl -s -X POST http://localhost:8000/api/login -H \"Accept: application/json\" -w \"\\\\nHTTP %{http_code}\\\\n\")",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:8000/api/units -H \"Accept: application/json\")",
+      "Bash(git -c user.email=agent@local -c user.name=agent commit -q -m 'Dockerize: PHP 8.3 + MySQL 8 compose, app runs on Laravel 10 baseline *)"
+    ]
+  },
+  "disabledMcpjsonServers": [
+    "code-review-graph"
+  ]
+}
