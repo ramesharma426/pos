@@ -122,29 +122,29 @@
       "_chunk-@vue-93510168.js"
     ]
   },
-  "_getCategories-e4baf049.js": {
-    "file": "assets/getCategories-e4baf049.js",
+  "_getCategories-c8a740a7.js": {
+    "file": "assets/getCategories-c8a740a7.js",
     "imports": [
       "resources/js/app.js",
       "_chunk-@vue-93510168.js"
     ]
   },
-  "_getProductNames-26b0dab3.js": {
-    "file": "assets/getProductNames-26b0dab3.js",
+  "_getProductNames-00d6f0cc.js": {
+    "file": "assets/getProductNames-00d6f0cc.js",
     "imports": [
       "resources/js/app.js",
       "_chunk-@vue-93510168.js"
     ]
   },
-  "_getTables-45901626.js": {
-    "file": "assets/getTables-45901626.js",
+  "_getTables-4e6c150b.js": {
+    "file": "assets/getTables-4e6c150b.js",
     "imports": [
       "resources/js/app.js",
       "_chunk-@vue-93510168.js"
     ]
   },
-  "_getUnits-22115597.js": {
-    "file": "assets/getUnits-22115597.js",
+  "_getUnits-d9441cd2.js": {
+    "file": "assets/getUnits-d9441cd2.js",
     "imports": [
       "resources/js/app.js",
       "_chunk-@vue-93510168.js"
@@ -206,7 +206,7 @@
       "resources/js/src/views/pages/purchase/Purchases.vue",
       "resources/js/src/views/pages/notFound/NotFound.vue"
     ],
-    "file": "assets/app-c0159241.js",
+    "file": "assets/app-adad24cd.js",
     "imports": [
       "_chunk-@vue-93510168.js",
       "_chunk-@meforma-7af0a7bc.js",
@@ -233,12 +233,12 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/Categories-3d39e5a7.js",
+    "file": "assets/Categories-f9ff65ee.js",
     "imports": [
       "_chunk-@vue-93510168.js",
       "resources/js/app.js",
       "_chunk-jquery-0de8874e.js",
-      "_getCategories-e4baf049.js",
+      "_getCategories-c8a740a7.js",
       "_chunk-@meforma-7af0a7bc.js",
       "_chunk-vuex-ff07d087.js",
       "_chunk-axios-4a70c6fc.js",
@@ -267,7 +267,7 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/Login-42825f7e.js",
+    "file": "assets/Login-b139fb11.js",
     "imports": [
       "_chunk-@vue-93510168.js",
       "resources/js/app.js",
@@ -309,12 +309,12 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/Orders-89fd3a5a.js",
+    "file": "assets/Orders-8f1f40bf.js",
     "imports": [
       "_chunk-@vue-93510168.js",
       "_chunk-thermal-printer-encoder-c84bfe8b.js",
       "resources/js/app.js",
-      "_getTables-45901626.js",
+      "_getTables-4e6c150b.js",
       "_chunk-jquery-0de8874e.js",
       "_chunk-@meforma-7af0a7bc.js",
       "_Pagination-4b82ded9.js",
@@ -340,12 +340,12 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/Products-88a1b8f7.js",
+    "file": "assets/Products-8728767d.js",
     "imports": [
       "_chunk-@vue-93510168.js",
       "resources/js/app.js",
-      "_getCategories-e4baf049.js",
-      "_getUnits-22115597.js",
+      "_getCategories-c8a740a7.js",
+      "_getUnits-d9441cd2.js",
       "_chunk-jquery-0de8874e.js",
       "_Pagination-4b82ded9.js",
       "_chunk-vue-router-f116ac55.js",
@@ -371,11 +371,11 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/ProductVariant-b2f388be.js",
+    "file": "assets/ProductVariant-b6874fcd.js",
     "imports": [
       "_chunk-@vue-93510168.js",
       "resources/js/app.js",
-      "_getProductNames-26b0dab3.js",
+      "_getProductNames-00d6f0cc.js",
       "_chunk-jquery-0de8874e.js",
       "_Pagination-4b82ded9.js",
       "_chunk-vue-router-f116ac55.js",
@@ -401,12 +401,12 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/Purchases-5641bba6.js",
+    "file": "assets/Purchases-c7c96515.js",
     "imports": [
       "resources/js/app.js",
       "_chunk-@vue-93510168.js",
       "_Pagination-4b82ded9.js",
-      "_getProductNames-26b0dab3.js",
+      "_getProductNames-00d6f0cc.js",
       "_chunk-jquery-0de8874e.js",
       "_chunk-vue-router-f116ac55.js",
       "_chunk-@meforma-7af0a7bc.js",
@@ -431,7 +431,7 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/Sales-199d6e0c.js",
+    "file": "assets/Sales-02026e7c.js",
     "imports": [
       "resources/js/app.js",
       "_chunk-@vue-93510168.js",
@@ -459,12 +459,12 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/Tables-80db657d.js",
+    "file": "assets/Tables-9b265698.js",
     "imports": [
       "_chunk-@vue-93510168.js",
       "resources/js/app.js",
       "_chunk-jquery-0de8874e.js",
-      "_getTables-45901626.js",
+      "_getTables-4e6c150b.js",
       "_chunk-@meforma-7af0a7bc.js",
       "_chunk-vuex-ff07d087.js",
       "_chunk-axios-4a70c6fc.js",
@@ -488,12 +488,12 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/Units-03dbb1f5.js",
+    "file": "assets/Units-7bb4e0c2.js",
     "imports": [
       "_chunk-@vue-93510168.js",
       "resources/js/app.js",
       "_chunk-jquery-0de8874e.js",
-      "_getUnits-22115597.js",
+      "_getUnits-d9441cd2.js",
       "_chunk-@meforma-7af0a7bc.js",
       "_chunk-vuex-ff07d087.js",
       "_chunk-axios-4a70c6fc.js",
@@ -517,7 +517,7 @@
       "assets/chunk-sweetalert2-e8f23879.css",
       "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
     ],
-    "file": "assets/Users-84308888.js",
+    "file": "assets/Users-979f648b.js",
     "imports": [
       "_chunk-@vue-93510168.js",
       "resources/js/app.js",

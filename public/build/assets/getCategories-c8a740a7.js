@@ -1,0 +1,1 @@
+import{a as e,s as r}from"./app-adad24cd.js";import{i as o}from"./chunk-@vue-93510168.js";const g=()=>{const s=o([]),t=o([]);return{categories:s,errors:t,loadCategories:async()=>{await e.get("/categories").then(a=>s.value=a.data.data).catch(a=>{throw t.value=a,a.response.status===422&&r(a.response.data.errors),a})}}};export{g};

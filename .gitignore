@@ -16,3 +16,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+# Playwright debug artifacts
+scripts/*.png
+test-results/
