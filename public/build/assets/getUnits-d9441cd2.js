@@ -1,1 +1,0 @@
-import{a as n,s as r}from"./app-adad24cd.js";import{i as o}from"./chunk-@vue-93510168.js";const u=()=>{const t=o([]),a=o([]);return{units:t,errors:a,loadUnits:async()=>{await n.get("/units").then(s=>t.value=s.data.data).catch(s=>{throw a.value=s,s.response.status===422&&r(s.response.data.errors),s})}}};export{u as g};

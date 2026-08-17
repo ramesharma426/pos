@@ -1,0 +1,1 @@
+import{it as e,tt as t}from"./chunk-@fortawesome-DdJI8GHT.js";import{n,t as r}from"./app-DgJoy-Yp.js";t();var i=()=>{let t=e([]),i=e([]);return{productNames:t,errors:i,loadProductNames:async()=>{await r.get(`/products/name`).then(e=>{t.value=e.data.data}).catch(e=>{throw i.value=e,e.response.status===422&&n(e.response.data.errors),e})}}};export{i as t};
