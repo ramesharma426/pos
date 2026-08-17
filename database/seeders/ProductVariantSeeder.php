@@ -36,6 +36,34 @@ class ProductVariantSeeder extends Seeder
             $pv->quantity = $datum[3];
             $pv->rate = $datum[4];
             $pv->save();
+
+            $this->generatePlaceholderImage($datum[0], $datum[2]);
          }
+    }
+
+    /**
+     * Create a placeholder image file for a seeded variant so its thumbnail
+     * resolves instead of 404-ing (the seeder only stores a path, not a file).
+     */
+    private function generatePlaceholderImage(string $imageUrl, string $label): void
+    {
+        if (!function_exists('imagecreatetruecolor')) {
+            return; // GD not available; skip silently
+        }
+        $relative = ltrim(str_replace('/storage/', '', $imageUrl), '/');
+        $path = storage_path('app/public/' . $relative);
+        if (is_file($path)) {
+            return;
+        }
+        if (!is_dir(dirname($path))) {
+            mkdir(dirname($path), 0775, true);
+        }
+        $img = imagecreatetruecolor(100, 100);
+        $bg = imagecolorallocate($img, 59, 130, 246);
+        $fg = imagecolorallocate($img, 255, 255, 255);
+        imagefilledrectangle($img, 0, 0, 100, 100, $bg);
+        imagestring($img, 3, 6, 44, substr($label, 0, 13), $fg);
+        imagejpeg($img, $path, 85);
+        imagedestroy($img);
     }
 }
