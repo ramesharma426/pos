@@ -149,32 +149,32 @@
       "_chunk-@vue-CCKiwo0U.js"
     ]
   },
-  "_getCategories-BgRr7Lji.js": {
-    "file": "assets/getCategories-BgRr7Lji.js",
+  "_getCategories-DCdnrRys.js": {
+    "file": "assets/getCategories-DCdnrRys.js",
     "name": "getCategories",
     "imports": [
       "_chunk-@fortawesome-DdJI8GHT.js",
       "resources/js/app.js"
     ]
   },
-  "_getProductNames-D61yZeVX.js": {
-    "file": "assets/getProductNames-D61yZeVX.js",
+  "_getProductNames-DFMR9Gg2.js": {
+    "file": "assets/getProductNames-DFMR9Gg2.js",
     "name": "getProductNames",
     "imports": [
       "_chunk-@fortawesome-DdJI8GHT.js",
       "resources/js/app.js"
     ]
   },
-  "_getTables-DxE9vUH7.js": {
-    "file": "assets/getTables-DxE9vUH7.js",
+  "_getTables-BhgdzS3A.js": {
+    "file": "assets/getTables-BhgdzS3A.js",
     "name": "getTables",
     "imports": [
       "_chunk-@fortawesome-DdJI8GHT.js",
       "resources/js/app.js"
     ]
   },
-  "_getUnits-DZ4gobjp.js": {
-    "file": "assets/getUnits-DZ4gobjp.js",
+  "_getUnits-Dt7xYjz7.js": {
+    "file": "assets/getUnits-Dt7xYjz7.js",
     "name": "getUnits",
     "imports": [
       "_chunk-@fortawesome-DdJI8GHT.js",
@@ -195,7 +195,7 @@
     "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app-DgJoy-Yp.js",
+    "file": "assets/app-CTluaTBe.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,
@@ -232,7 +232,7 @@
     ]
   },
   "resources/js/src/views/pages/category/Categories.vue": {
-    "file": "assets/Categories-B1Y-ttGg.js",
+    "file": "assets/Categories-DJf-OpPw.js",
     "name": "Categories",
     "src": "resources/js/src/views/pages/category/Categories.vue",
     "isDynamicEntry": true,
@@ -241,11 +241,11 @@
       "_chunk-@fortawesome-DdJI8GHT.js",
       "_chunk-admin-lte-jRxwug1q.js",
       "resources/js/app.js",
-      "_getCategories-BgRr7Lji.js"
+      "_getCategories-DCdnrRys.js"
     ]
   },
   "resources/js/src/views/pages/login/Login.vue": {
-    "file": "assets/Login-DTUJvHq0.js",
+    "file": "assets/Login-Bgo40LsH.js",
     "name": "Login",
     "src": "resources/js/src/views/pages/login/Login.vue",
     "isDynamicEntry": true,
@@ -273,7 +273,7 @@
     ]
   },
   "resources/js/src/views/pages/order/Orders.vue": {
-    "file": "assets/Orders-BAm-3MYe.js",
+    "file": "assets/Orders-B1_tSRx5.js",
     "name": "Orders",
     "src": "resources/js/src/views/pages/order/Orders.vue",
     "isDynamicEntry": true,
@@ -285,7 +285,7 @@
       "_chunk-admin-lte-jRxwug1q.js",
       "resources/js/app.js",
       "_chunk-thermal-printer-encoder-C03P7XMf.js",
-      "_getTables-DxE9vUH7.js",
+      "_getTables-BhgdzS3A.js",
       "_Pagination-BHIOKniT.js"
     ],
     "css": [
@@ -293,7 +293,7 @@
     ]
   },
   "resources/js/src/views/pages/product/Products.vue": {
-    "file": "assets/Products-Dv4tCjUd.js",
+    "file": "assets/Products-BU_IHmW7.js",
     "name": "Products",
     "src": "resources/js/src/views/pages/product/Products.vue",
     "isDynamicEntry": true,
@@ -303,13 +303,13 @@
       "_chunk-vue-router-D8EGtHTI.js",
       "_chunk-admin-lte-jRxwug1q.js",
       "resources/js/app.js",
-      "_getCategories-BgRr7Lji.js",
+      "_getCategories-DCdnrRys.js",
       "_Pagination-BHIOKniT.js",
-      "_getUnits-DZ4gobjp.js"
+      "_getUnits-Dt7xYjz7.js"
     ]
   },
   "resources/js/src/views/pages/productVariant/ProductVariant.vue": {
-    "file": "assets/ProductVariant-Hrf9PUrW.js",
+    "file": "assets/ProductVariant-PwsXbDSE.js",
     "name": "ProductVariant",
     "src": "resources/js/src/views/pages/productVariant/ProductVariant.vue",
     "isDynamicEntry": true,
@@ -320,11 +320,11 @@
       "_chunk-admin-lte-jRxwug1q.js",
       "resources/js/app.js",
       "_Pagination-BHIOKniT.js",
-      "_getProductNames-D61yZeVX.js"
+      "_getProductNames-DFMR9Gg2.js"
     ]
   },
   "resources/js/src/views/pages/purchase/Purchases.vue": {
-    "file": "assets/Purchases-BaU75Dmf.js",
+    "file": "assets/Purchases-BeMM7QMd.js",
     "name": "Purchases",
     "src": "resources/js/src/views/pages/purchase/Purchases.vue",
     "isDynamicEntry": true,
@@ -335,11 +335,11 @@
       "_chunk-admin-lte-jRxwug1q.js",
       "resources/js/app.js",
       "_Pagination-BHIOKniT.js",
-      "_getProductNames-D61yZeVX.js"
+      "_getProductNames-DFMR9Gg2.js"
     ]
   },
   "resources/js/src/views/pages/sales/Sales.vue": {
-    "file": "assets/Sales-CYlppgPo.js",
+    "file": "assets/Sales-BwFeAlb1.js",
     "name": "Sales",
     "src": "resources/js/src/views/pages/sales/Sales.vue",
     "isDynamicEntry": true,
@@ -350,7 +350,7 @@
     ]
   },
   "resources/js/src/views/pages/table/Tables.vue": {
-    "file": "assets/Tables-CwP_d9Ky.js",
+    "file": "assets/Tables-CDN4ujrk.js",
     "name": "Tables",
     "src": "resources/js/src/views/pages/table/Tables.vue",
     "isDynamicEntry": true,
@@ -359,11 +359,11 @@
       "_chunk-@fortawesome-DdJI8GHT.js",
       "_chunk-admin-lte-jRxwug1q.js",
       "resources/js/app.js",
-      "_getTables-DxE9vUH7.js"
+      "_getTables-BhgdzS3A.js"
     ]
   },
   "resources/js/src/views/pages/unit/Units.vue": {
-    "file": "assets/Units-C2TT6Cgb.js",
+    "file": "assets/Units-BBOn-zAX.js",
     "name": "Units",
     "src": "resources/js/src/views/pages/unit/Units.vue",
     "isDynamicEntry": true,
@@ -372,11 +372,11 @@
       "_chunk-@fortawesome-DdJI8GHT.js",
       "_chunk-admin-lte-jRxwug1q.js",
       "resources/js/app.js",
-      "_getUnits-DZ4gobjp.js"
+      "_getUnits-Dt7xYjz7.js"
     ]
   },
   "resources/js/src/views/pages/user/Users.vue": {
-    "file": "assets/Users-CqCqnzz7.js",
+    "file": "assets/Users-BXMDO8H-.js",
     "name": "Users",
     "src": "resources/js/src/views/pages/user/Users.vue",
     "isDynamicEntry": true,

@@ -23,6 +23,7 @@ fi
 
 # Storage symlink + writable dirs
 php artisan storage:link 2>/dev/null || true
+mkdir -p storage/app/public/products
 chmod -R ug+rw storage bootstrap/cache 2>/dev/null || true
 
 echo "[entrypoint] Running migrations..."
