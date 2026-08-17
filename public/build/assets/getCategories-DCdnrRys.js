@@ -1,0 +1,1 @@
+import{it as e,tt as t}from"./chunk-@fortawesome-DdJI8GHT.js";import{n,t as r}from"./app-CTluaTBe.js";t();var i=()=>{let t=e([]),i=e([]);return{categories:t,errors:i,loadCategories:async()=>{await r.get(`/categories`).then(e=>t.value=e.data.data).catch(e=>{throw i.value=e,e.response.status===422&&n(e.response.data.errors),e})}}};export{i as t};

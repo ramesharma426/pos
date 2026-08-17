@@ -1,197 +1,216 @@
 {
-  "Pagination.css": {
-    "file": "assets/Pagination-aa4698d3.css",
-    "src": "Pagination.css"
-  },
-  "_Pagination-4b82ded9.js": {
-    "css": [
-      "assets/Pagination-aa4698d3.css"
+  "_Pagination-BHIOKniT.js": {
+    "file": "assets/Pagination-BHIOKniT.js",
+    "name": "Pagination",
+    "imports": [
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-@meforma-Dzk9EbQY.js",
+      "_chunk-vue-router-D8EGtHTI.js"
     ],
-    "file": "assets/Pagination-4b82ded9.js",
-    "imports": [
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-@vue-93510168.js"
-    ]
-  },
-  "_chunk-@fortawesome-5000d694.js": {
-    "file": "assets/chunk-@fortawesome-5000d694.js",
-    "imports": [
-      "_chunk-@vue-93510168.js"
-    ]
-  },
-  "_chunk-@marcoschulte-3f404b4e.js": {
     "css": [
-      "assets/chunk-@marcoschulte-235256f7.css"
-    ],
-    "file": "assets/chunk-@marcoschulte-3f404b4e.js",
-    "imports": [
-      "_chunk-vue-034470a5.js"
+      "assets/Pagination-DUe_SnOu.css"
     ]
   },
-  "_chunk-@meforma-7af0a7bc.js": {
+  "_Pagination-DUe_SnOu.css": {
+    "file": "assets/Pagination-DUe_SnOu.css",
+    "src": "_Pagination-DUe_SnOu.css"
+  },
+  "_chunk-@fortawesome-DdJI8GHT.js": {
+    "file": "assets/chunk-@fortawesome-DdJI8GHT.js",
+    "name": "chunk-@fortawesome",
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js"
+    ]
+  },
+  "_chunk-@marcoschulte-DLd66-FG.css": {
+    "file": "assets/chunk-@marcoschulte-DLd66-FG.css",
+    "src": "_chunk-@marcoschulte-DLd66-FG.css"
+  },
+  "_chunk-@marcoschulte-DVXzZYi5.js": {
+    "file": "assets/chunk-@marcoschulte-DVXzZYi5.js",
+    "name": "chunk-@marcoschulte",
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js"
+    ],
     "css": [
-      "assets/chunk-@meforma-41045d4d.css"
-    ],
-    "file": "assets/chunk-@meforma-7af0a7bc.js",
-    "imports": [
-      "_chunk-@vue-93510168.js"
+      "assets/chunk-@marcoschulte-DLd66-FG.css"
     ]
   },
-  "_chunk-@popperjs-f3391c26.js": {
-    "file": "assets/chunk-@popperjs-f3391c26.js"
+  "_chunk-@meforma-CU0YUYt7.css": {
+    "file": "assets/chunk-@meforma-CU0YUYt7.css",
+    "src": "_chunk-@meforma-CU0YUYt7.css"
   },
-  "_chunk-@vue-93510168.js": {
-    "file": "assets/chunk-@vue-93510168.js"
-  },
-  "_chunk-admin-lte-20febdd7.js": {
+  "_chunk-@meforma-Dzk9EbQY.js": {
+    "file": "assets/chunk-@meforma-Dzk9EbQY.js",
+    "name": "chunk-@meforma",
+    "imports": [
+      "_chunk-@fortawesome-DdJI8GHT.js"
+    ],
     "css": [
-      "assets/chunk-admin-lte-da9280ec.css"
+      "assets/chunk-@meforma-CU0YUYt7.css"
+    ]
+  },
+  "_chunk-@popperjs-CvTkGAcX.js": {
+    "file": "assets/chunk-@popperjs-CvTkGAcX.js",
+    "name": "chunk-@popperjs"
+  },
+  "_chunk-@vue-CCKiwo0U.js": {
+    "file": "assets/chunk-@vue-CCKiwo0U.js",
+    "name": "chunk-@vue"
+  },
+  "_chunk-admin-lte-DVmBqn2X.css": {
+    "file": "assets/chunk-admin-lte-DVmBqn2X.css",
+    "src": "_chunk-admin-lte-DVmBqn2X.css"
+  },
+  "_chunk-admin-lte-jRxwug1q.js": {
+    "file": "assets/chunk-admin-lte-jRxwug1q.js",
+    "name": "chunk-admin-lte",
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js"
     ],
-    "file": "assets/chunk-admin-lte-20febdd7.js",
-    "imports": [
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-jquery-0de8874e.js"
-    ]
-  },
-  "_chunk-axios-4a70c6fc.js": {
-    "file": "assets/chunk-axios-4a70c6fc.js"
-  },
-  "_chunk-jquery-0de8874e.js": {
-    "file": "assets/chunk-jquery-0de8874e.js",
-    "imports": [
-      "_chunk-@marcoschulte-3f404b4e.js"
-    ]
-  },
-  "_chunk-microplugin-b7ccbb30.js": {
-    "file": "assets/chunk-microplugin-b7ccbb30.js",
-    "imports": [
-      "_chunk-@marcoschulte-3f404b4e.js"
-    ]
-  },
-  "_chunk-selectize-0d5ff4ad.js": {
     "css": [
-      "assets/chunk-selectize-c908fe95.css"
+      "assets/chunk-admin-lte-DVmBqn2X.css"
+    ]
+  },
+  "_chunk-axios-aKgWda1T.js": {
+    "file": "assets/chunk-axios-aKgWda1T.js",
+    "name": "chunk-axios",
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js"
+    ]
+  },
+  "_chunk-microplugin-CSxxqnXQ.js": {
+    "file": "assets/chunk-microplugin-CSxxqnXQ.js",
+    "name": "chunk-microplugin",
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js"
+    ]
+  },
+  "_chunk-selectize-BvNvBhok.js": {
+    "file": "assets/chunk-selectize-BvNvBhok.js",
+    "name": "chunk-selectize",
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "_chunk-microplugin-CSxxqnXQ.js"
     ],
-    "file": "assets/chunk-selectize-0d5ff4ad.js",
-    "imports": [
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-jquery-0de8874e.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ]
-  },
-  "_chunk-sifter-15aefdad.js": {
-    "file": "assets/chunk-sifter-15aefdad.js",
-    "imports": [
-      "_chunk-@marcoschulte-3f404b4e.js"
-    ]
-  },
-  "_chunk-thermal-printer-encoder-c84bfe8b.js": {
-    "file": "assets/chunk-thermal-printer-encoder-c84bfe8b.js"
-  },
-  "_chunk-v-calendar-66f4633f.js": {
     "css": [
-      "assets/chunk-v-calendar-a6ce24e0.css"
+      "assets/chunk-selectize-DwsQ8aWx.css"
+    ]
+  },
+  "_chunk-selectize-DwsQ8aWx.css": {
+    "file": "assets/chunk-selectize-DwsQ8aWx.css",
+    "src": "_chunk-selectize-DwsQ8aWx.css"
+  },
+  "_chunk-selectize-bootstrap4-theme-CMFC_dV5.css": {
+    "file": "assets/chunk-selectize-bootstrap4-theme-CMFC_dV5.css",
+    "src": "_chunk-selectize-bootstrap4-theme-CMFC_dV5.css"
+  },
+  "_chunk-sweetalert2-DmHed3W8.css": {
+    "file": "assets/chunk-sweetalert2-DmHed3W8.css",
+    "src": "_chunk-sweetalert2-DmHed3W8.css"
+  },
+  "_chunk-thermal-printer-encoder-C03P7XMf.js": {
+    "file": "assets/chunk-thermal-printer-encoder-C03P7XMf.js",
+    "name": "chunk-thermal-printer-encoder"
+  },
+  "_chunk-v-calendar-BF_HWLy7.css": {
+    "file": "assets/chunk-v-calendar-BF_HWLy7.css",
+    "src": "_chunk-v-calendar-BF_HWLy7.css"
+  },
+  "_chunk-v-calendar-CQ4KGwDg.js": {
+    "file": "assets/chunk-v-calendar-CQ4KGwDg.js",
+    "name": "chunk-v-calendar",
+    "imports": [
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-@popperjs-CvTkGAcX.js"
     ],
-    "file": "assets/chunk-v-calendar-66f4633f.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "_chunk-@popperjs-f3391c26.js"
+    "css": [
+      "assets/chunk-v-calendar-BF_HWLy7.css"
     ]
   },
-  "_chunk-vue-034470a5.js": {
-    "file": "assets/chunk-vue-034470a5.js",
+  "_chunk-vue-router-D8EGtHTI.js": {
+    "file": "assets/chunk-vue-router-D8EGtHTI.js",
+    "name": "chunk-vue-router",
     "imports": [
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-@vue-93510168.js"
+      "_chunk-@fortawesome-DdJI8GHT.js"
     ]
   },
-  "_chunk-vue-router-f116ac55.js": {
-    "file": "assets/chunk-vue-router-f116ac55.js",
+  "_chunk-vue-sweetalert2-Bx4VP5kE.js": {
+    "file": "assets/chunk-vue-sweetalert2-Bx4VP5kE.js",
+    "name": "chunk-vue-sweetalert2"
+  },
+  "_chunk-vuex-DXmrPugL.js": {
+    "file": "assets/chunk-vuex-DXmrPugL.js",
+    "name": "chunk-vuex",
     "imports": [
-      "_chunk-@vue-93510168.js"
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-@vue-CCKiwo0U.js"
     ]
   },
-  "_chunk-vue-sweetalert2-20cc65a2.js": {
-    "file": "assets/chunk-vue-sweetalert2-20cc65a2.js"
-  },
-  "_chunk-vuex-ff07d087.js": {
-    "file": "assets/chunk-vuex-ff07d087.js",
+  "_getCategories-DCdnrRys.js": {
+    "file": "assets/getCategories-DCdnrRys.js",
+    "name": "getCategories",
     "imports": [
-      "_chunk-@vue-93510168.js"
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "resources/js/app.js"
     ]
   },
-  "_getCategories-e4baf049.js": {
-    "file": "assets/getCategories-e4baf049.js",
+  "_getProductNames-DFMR9Gg2.js": {
+    "file": "assets/getProductNames-DFMR9Gg2.js",
+    "name": "getProductNames",
     "imports": [
-      "resources/js/app.js",
-      "_chunk-@vue-93510168.js"
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "resources/js/app.js"
     ]
   },
-  "_getProductNames-26b0dab3.js": {
-    "file": "assets/getProductNames-26b0dab3.js",
+  "_getTables-BhgdzS3A.js": {
+    "file": "assets/getTables-BhgdzS3A.js",
+    "name": "getTables",
     "imports": [
-      "resources/js/app.js",
-      "_chunk-@vue-93510168.js"
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "resources/js/app.js"
     ]
   },
-  "_getTables-45901626.js": {
-    "file": "assets/getTables-45901626.js",
+  "_getUnits-Dt7xYjz7.js": {
+    "file": "assets/getUnits-Dt7xYjz7.js",
+    "name": "getUnits",
     "imports": [
-      "resources/js/app.js",
-      "_chunk-@vue-93510168.js"
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "resources/js/app.js"
     ]
   },
-  "_getUnits-22115597.js": {
-    "file": "assets/getUnits-22115597.js",
-    "imports": [
-      "resources/js/app.js",
-      "_chunk-@vue-93510168.js"
-    ]
-  },
-  "chunk-@marcoschulte.css": {
-    "file": "assets/chunk-@marcoschulte-235256f7.css",
-    "src": "chunk-@marcoschulte.css"
-  },
-  "chunk-@meforma.css": {
-    "file": "assets/chunk-@meforma-41045d4d.css",
-    "src": "chunk-@meforma.css"
-  },
-  "chunk-admin-lte.css": {
-    "file": "assets/chunk-admin-lte-da9280ec.css",
-    "src": "chunk-admin-lte.css"
-  },
-  "chunk-selectize-bootstrap4-theme.css": {
-    "file": "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css",
-    "src": "chunk-selectize-bootstrap4-theme.css"
-  },
-  "chunk-selectize.css": {
-    "file": "assets/chunk-selectize-c908fe95.css",
-    "src": "chunk-selectize.css"
-  },
-  "chunk-sweetalert2.css": {
-    "file": "assets/chunk-sweetalert2-e8f23879.css",
-    "src": "chunk-sweetalert2.css"
-  },
-  "chunk-v-calendar.css": {
-    "file": "assets/chunk-v-calendar-a6ce24e0.css",
-    "src": "chunk-v-calendar.css"
+  "_rolldown-runtime-B0Z9INg1.js": {
+    "file": "assets/rolldown-runtime-B0Z9INg1.js",
+    "name": "rolldown-runtime"
   },
   "resources/css/app.css": {
-    "file": "assets/app-4ed993c7.js",
-    "isEntry": true,
-    "src": "resources/css/app.css"
-  },
-  "resources/js/app.css": {
-    "file": "assets/app-39abd632.css",
-    "src": "resources/js/app.css"
+    "file": "assets/app-x1XGuNl0.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true
   },
   "resources/js/app.js": {
-    "css": [
-      "assets/app-39abd632.css",
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
+    "file": "assets/app-CTluaTBe.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-@meforma-Dzk9EbQY.js",
+      "_chunk-vuex-DXmrPugL.js",
+      "_chunk-axios-aKgWda1T.js",
+      "_chunk-@marcoschulte-DVXzZYi5.js",
+      "_chunk-vue-router-D8EGtHTI.js",
+      "_chunk-vue-sweetalert2-Bx4VP5kE.js",
+      "_chunk-v-calendar-CQ4KGwDg.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "_chunk-selectize-BvNvBhok.js"
     ],
     "dynamicImports": [
       "resources/js/src/views/pages/login/Login.vue",
@@ -206,339 +225,168 @@
       "resources/js/src/views/pages/purchase/Purchases.vue",
       "resources/js/src/views/pages/notFound/NotFound.vue"
     ],
-    "file": "assets/app-c0159241.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-jquery-0de8874e.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
-    "isEntry": true,
-    "src": "resources/js/app.js"
+    "css": [
+      "assets/app-BkP_D5N5.css",
+      "assets/chunk-sweetalert2-DmHed3W8.css",
+      "assets/chunk-selectize-bootstrap4-theme-CMFC_dV5.css"
+    ]
   },
   "resources/js/src/views/pages/category/Categories.vue": {
-    "css": [
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/Categories-3d39e5a7.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "resources/js/app.js",
-      "_chunk-jquery-0de8874e.js",
-      "_getCategories-e4baf049.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/Categories-DJf-OpPw.js",
+    "name": "Categories",
+    "src": "resources/js/src/views/pages/category/Categories.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/category/Categories.vue"
-  },
-  "resources/js/src/views/pages/login/Login.css": {
-    "file": "assets/Login-669013ea.css",
-    "src": "resources/js/src/views/pages/login/Login.css"
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "resources/js/app.js",
+      "_getCategories-DCdnrRys.js"
+    ]
   },
   "resources/js/src/views/pages/login/Login.vue": {
-    "css": [
-      "assets/Login-669013ea.css",
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/Login-42825f7e.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "resources/js/app.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-jquery-0de8874e.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/Login-Bgo40LsH.js",
+    "name": "Login",
+    "src": "resources/js/src/views/pages/login/Login.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/login/Login.vue"
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-@meforma-Dzk9EbQY.js",
+      "_chunk-vuex-DXmrPugL.js",
+      "_chunk-vue-router-D8EGtHTI.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/Login-BMujnsJ6.css"
+    ]
   },
   "resources/js/src/views/pages/notFound/NotFound.vue": {
-    "file": "assets/NotFound-96a00a42.js",
-    "imports": [
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-@vue-93510168.js"
-    ],
+    "file": "assets/NotFound-CtvfXU6s.js",
+    "name": "NotFound",
+    "src": "resources/js/src/views/pages/notFound/NotFound.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/notFound/NotFound.vue"
-  },
-  "resources/js/src/views/pages/order/Orders.css": {
-    "file": "assets/Orders-2153be33.css",
-    "src": "resources/js/src/views/pages/order/Orders.css"
+    "imports": [
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-@meforma-Dzk9EbQY.js"
+    ]
   },
   "resources/js/src/views/pages/order/Orders.vue": {
-    "css": [
-      "assets/Orders-2153be33.css",
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/Orders-89fd3a5a.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "_chunk-thermal-printer-encoder-c84bfe8b.js",
-      "resources/js/app.js",
-      "_getTables-45901626.js",
-      "_chunk-jquery-0de8874e.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_Pagination-4b82ded9.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/Orders-B1_tSRx5.js",
+    "name": "Orders",
+    "src": "resources/js/src/views/pages/order/Orders.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/order/Orders.vue"
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-@meforma-Dzk9EbQY.js",
+      "_chunk-vue-router-D8EGtHTI.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "resources/js/app.js",
+      "_chunk-thermal-printer-encoder-C03P7XMf.js",
+      "_getTables-BhgdzS3A.js",
+      "_Pagination-BHIOKniT.js"
+    ],
+    "css": [
+      "assets/Orders-XjmRUxsn.css"
+    ]
   },
   "resources/js/src/views/pages/product/Products.vue": {
-    "css": [
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/Products-88a1b8f7.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "resources/js/app.js",
-      "_getCategories-e4baf049.js",
-      "_getUnits-22115597.js",
-      "_chunk-jquery-0de8874e.js",
-      "_Pagination-4b82ded9.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/Products-BU_IHmW7.js",
+    "name": "Products",
+    "src": "resources/js/src/views/pages/product/Products.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/product/Products.vue"
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-vue-router-D8EGtHTI.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "resources/js/app.js",
+      "_getCategories-DCdnrRys.js",
+      "_Pagination-BHIOKniT.js",
+      "_getUnits-Dt7xYjz7.js"
+    ]
   },
   "resources/js/src/views/pages/productVariant/ProductVariant.vue": {
-    "css": [
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/ProductVariant-b2f388be.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "resources/js/app.js",
-      "_getProductNames-26b0dab3.js",
-      "_chunk-jquery-0de8874e.js",
-      "_Pagination-4b82ded9.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/ProductVariant-PwsXbDSE.js",
+    "name": "ProductVariant",
+    "src": "resources/js/src/views/pages/productVariant/ProductVariant.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/productVariant/ProductVariant.vue"
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-vue-router-D8EGtHTI.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "resources/js/app.js",
+      "_Pagination-BHIOKniT.js",
+      "_getProductNames-DFMR9Gg2.js"
+    ]
   },
   "resources/js/src/views/pages/purchase/Purchases.vue": {
-    "css": [
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/Purchases-5641bba6.js",
-    "imports": [
-      "resources/js/app.js",
-      "_chunk-@vue-93510168.js",
-      "_Pagination-4b82ded9.js",
-      "_getProductNames-26b0dab3.js",
-      "_chunk-jquery-0de8874e.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/Purchases-BeMM7QMd.js",
+    "name": "Purchases",
+    "src": "resources/js/src/views/pages/purchase/Purchases.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/purchase/Purchases.vue"
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-vue-router-D8EGtHTI.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "resources/js/app.js",
+      "_Pagination-BHIOKniT.js",
+      "_getProductNames-DFMR9Gg2.js"
+    ]
   },
   "resources/js/src/views/pages/sales/Sales.vue": {
-    "css": [
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/Sales-199d6e0c.js",
-    "imports": [
-      "resources/js/app.js",
-      "_chunk-@vue-93510168.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-jquery-0de8874e.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/Sales-BwFeAlb1.js",
+    "name": "Sales",
+    "src": "resources/js/src/views/pages/sales/Sales.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/sales/Sales.vue"
+    "imports": [
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-vue-router-D8EGtHTI.js",
+      "resources/js/app.js"
+    ]
   },
   "resources/js/src/views/pages/table/Tables.vue": {
-    "css": [
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/Tables-80db657d.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "resources/js/app.js",
-      "_chunk-jquery-0de8874e.js",
-      "_getTables-45901626.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/Tables-CDN4ujrk.js",
+    "name": "Tables",
+    "src": "resources/js/src/views/pages/table/Tables.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/table/Tables.vue"
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "resources/js/app.js",
+      "_getTables-BhgdzS3A.js"
+    ]
   },
   "resources/js/src/views/pages/unit/Units.vue": {
-    "css": [
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/Units-03dbb1f5.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "resources/js/app.js",
-      "_chunk-jquery-0de8874e.js",
-      "_getUnits-22115597.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/Units-BBOn-zAX.js",
+    "name": "Units",
+    "src": "resources/js/src/views/pages/unit/Units.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/unit/Units.vue"
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "resources/js/app.js",
+      "_getUnits-Dt7xYjz7.js"
+    ]
   },
   "resources/js/src/views/pages/user/Users.vue": {
-    "css": [
-      "assets/chunk-sweetalert2-e8f23879.css",
-      "assets/chunk-selectize-bootstrap4-theme-815ab4e6.css"
-    ],
-    "file": "assets/Users-84308888.js",
-    "imports": [
-      "_chunk-@vue-93510168.js",
-      "resources/js/app.js",
-      "_chunk-jquery-0de8874e.js",
-      "_Pagination-4b82ded9.js",
-      "_chunk-vue-router-f116ac55.js",
-      "_chunk-@meforma-7af0a7bc.js",
-      "_chunk-vuex-ff07d087.js",
-      "_chunk-axios-4a70c6fc.js",
-      "_chunk-@marcoschulte-3f404b4e.js",
-      "_chunk-vue-034470a5.js",
-      "_chunk-@fortawesome-5000d694.js",
-      "_chunk-vue-sweetalert2-20cc65a2.js",
-      "_chunk-v-calendar-66f4633f.js",
-      "_chunk-@popperjs-f3391c26.js",
-      "_chunk-admin-lte-20febdd7.js",
-      "_chunk-selectize-0d5ff4ad.js",
-      "_chunk-sifter-15aefdad.js",
-      "_chunk-microplugin-b7ccbb30.js"
-    ],
+    "file": "assets/Users-BXMDO8H-.js",
+    "name": "Users",
+    "src": "resources/js/src/views/pages/user/Users.vue",
     "isDynamicEntry": true,
-    "src": "resources/js/src/views/pages/user/Users.vue"
+    "imports": [
+      "_rolldown-runtime-B0Z9INg1.js",
+      "_chunk-@fortawesome-DdJI8GHT.js",
+      "_chunk-vue-router-D8EGtHTI.js",
+      "_chunk-admin-lte-jRxwug1q.js",
+      "resources/js/app.js",
+      "_Pagination-BHIOKniT.js"
+    ]
   }
 }

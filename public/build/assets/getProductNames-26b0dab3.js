@@ -1,1 +1,0 @@
-import{a as r,s as e}from"./app-c0159241.js";import{i as o}from"./chunk-@vue-93510168.js";const m=()=>{const s=o([]),t=o([]);return{productNames:s,errors:t,loadProductNames:async()=>{await r.get("/products/name").then(a=>{s.value=a.data.data}).catch(a=>{throw t.value=a,a.response.status===422&&e(a.response.data.errors),a})}}};export{m as g};

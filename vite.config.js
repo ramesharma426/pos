@@ -10,6 +10,14 @@ export default defineConfig({
         }),
         vue(),
     ],
+    css: {
+        // Vite 8 minifies CSS with LightningCSS, which rejects the legacy IE
+        // star-property hacks in third-party CSS (e.g. selectize's `*display`).
+        // errorRecovery strips those invalid declarations instead of failing.
+        lightningcss: {
+            errorRecovery: true,
+        },
+    },
     build: {
         rollupOptions: {
             output: {
